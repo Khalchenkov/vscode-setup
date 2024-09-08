@@ -40,7 +40,6 @@
             "strings":{
                 "foreground": "#FFF"
             },
-           
         }
     },
    
@@ -69,9 +68,7 @@
             //"editor.lineHighlightBorder": "#8e8e8e",
             //"editor.lineHighlightBackground": "#053232"
         },
-       
     },
-
 
     // Scobe
     "editor.guides.bracketPairs" : true,
@@ -90,4 +87,10 @@
     "files.autoSave": "afterDelay",
     "terminal.integrated.fontFamily": "Hack Nerd Font",
     "editor.tabSize": 2,
+    "window.menuBarVisibility": "toggle",
+    "window.customTitleBarVisibility": "auto",
+    "window.density.editorTabHeight": "compact",
+    "workbench.editor.tabActionCloseVisibility": false,
+    "workbench.activityBar.location": "top",
+    "editor.parameterHints.enabled": false
 }
